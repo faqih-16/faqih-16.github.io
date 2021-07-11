@@ -1,0 +1,135 @@
+/* style jumbotron */
+.jumbotron {
+  background-color:#cfcccc ;
+  bottom: 2rem;
+}
+
+/* containerrr */
+.container-fluid{
+  padding: 0%;
+}
+/* container */
+
+
+
+/* quote footer */
+.blockquote-footer {
+  padding-bottom:3rem
+}
+/* quote footer */
+
+/* card */
+.col-sm-3 {
+  padding-left: 2rem;
+}
+/* card */
+
+/* asasaasas */
+.fas fa-user {
+ align-items: center;
+}
+
+/* about me */
+.About Me {
+  padding-bottom: 2rem;
+}
+/* about me */
+
+/* carousel 1 */
+#carouselExampleIndicators .carousel-control-prev {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(39, 66, 66);
+  border-radius: 50%;
+  left: 5%;
+  top : 45%
+}
+
+#carouselExampleIndicators .carousel-control-next {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(39, 66, 66);
+  border-radius: 50%;
+  right: 5%;
+  top : 45%
+}
+
+/* carousel 2 */
+#carouselExampleIndicators2 {
+  width:60%;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  left:-5%
+}
+
+#carouselExampleIndicators2 .carousel-inner{
+  border:2px;
+  border-style:double;
+  border-color: #cfcccc;
+}
+
+#carouselExampleIndicators2 .carousel-item img{
+  height:60%;
+  width:100%;
+}
+#carouselExampleIndicators2 .carousel-control-prev {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(39, 66, 66);
+  border-radius: 50%;
+  left: 5%;
+  top : 50%
+}
+
+#carouselExampleIndicators2 .carousel-control-next {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(39, 66, 66);
+  border-radius: 50%;
+  right: 5%;
+  top : 50%
+}
+
+#carouselExampleIndicators2 .carousel-indicator {
+  bottom: 10%
+}
+
+/* carousel 3 */
+#carouselExampleIndicators3 {
+  width:60%;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  left:0
+}
+
+#carouselExampleIndicators3 .carousel-inner{
+  border:2px;
+  border-style:double;
+  border-color: #cfcccc;
+}
+
+#carouselExampleIndicators3 .carousel-item img{
+  height:60%;
+  width:100%;
+}
+#carouselExampleIndicators3 .carousel-control-prev {
+  width: 40px;
+  height: 40px;
+  background-color: #cfcccc;
+  border-radius: 50%;
+  left: 2%;
+  top : 40%
+}
+
+#carouselExampleIndicators3 .carousel-control-next {
+  width: 40px;
+  height: 40px;
+  background-color: #cfcccc;
+  border-radius: 50%;
+  right: 2%;
+  top : 40%
+}
+
+#carouselExampleIndicators3 .carousel-indicator {
+  bottom: 10%
+}
